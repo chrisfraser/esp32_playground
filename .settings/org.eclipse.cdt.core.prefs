@@ -1,0 +1,12 @@
+eclipse.preferences.version=1
+environment/project/cdt.managedbuild.toolchain.gnu.cross.base.1640058030/BIN_PATH/delimiter=\:
+environment/project/cdt.managedbuild.toolchain.gnu.cross.base.1640058030/BIN_PATH/operation=replace
+environment/project/cdt.managedbuild.toolchain.gnu.cross.base.1640058030/BIN_PATH/value=${HOME}/workspace/ESP32_BIN
+environment/project/cdt.managedbuild.toolchain.gnu.cross.base.1640058030/PATH/delimiter=\:
+environment/project/cdt.managedbuild.toolchain.gnu.cross.base.1640058030/PATH/operation=replace
+environment/project/cdt.managedbuild.toolchain.gnu.cross.base.1640058030/PATH/value=/opt/Espressif/crosstool-NG/builds/xtensa-esp108-elf/bin\:${PATH}
+environment/project/cdt.managedbuild.toolchain.gnu.cross.base.1640058030/SDK_PATH/delimiter=\:
+environment/project/cdt.managedbuild.toolchain.gnu.cross.base.1640058030/SDK_PATH/operation=replace
+environment/project/cdt.managedbuild.toolchain.gnu.cross.base.1640058030/SDK_PATH/value=${HOME}/workspace/ESP32_RTOS_SDK
+environment/project/cdt.managedbuild.toolchain.gnu.cross.base.1640058030/append=true
+environment/project/cdt.managedbuild.toolchain.gnu.cross.base.1640058030/appendContributed=true
